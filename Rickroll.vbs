@@ -9,7 +9,7 @@ oShell.SendKeys("{PGUP}")
 oShell.SendKeys("%{F4}")
 oShell.Run "chrome.exe"
 WScript.Sleep 600
-oShell.SendKeys"https://www.youtube.com%2Fwatch%3Fv%3DlXMskKTw3Bc&usg=AFQjCNE48gat-aAwJKKdX8VEg2h5sGyHOQ"
+oShell.SendKeys"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oShell.SendKeys"{ENTER}" 
 WScript.Sleep 600
 oShell.SendKeys"F"
