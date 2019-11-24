@@ -1,4 +1,3 @@
-REM stupid program crasher.  just change the names of the programs
 @echo off
 title Task launcher
 color f0
